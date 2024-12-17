@@ -30,6 +30,8 @@ The goal of this project is to analyze and visualize crime data to identify tren
 5. **Enhanced Visualizations**  
    - Includes line charts, donut charts, KPI indicators, and conditional formatting to display critical metrics and highlight key insights.
 
+![image](https://github.com/user-attachments/assets/ada97c94-c7af-44ee-92da-a67f429a06dd)
+
 ## Key Measures
 
 The following key DAX measures were created and used throughout the analysis to calculate and visualize various crime metrics:
@@ -95,6 +97,7 @@ Allows dynamic selection of metrics for reporting:
      [Selected Metric] = "YoY Growth", [YoY Growth],
      BLANK()
      )
+![image](https://github.com/user-attachments/assets/c42f0a55-b015-4270-a12c-2197e8fe0254)
 
 ## Data Description
 The dataset includes the following columns:
